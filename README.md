@@ -1,4 +1,7 @@
 
 # HaarlemRP
 Sirene HaarlemRP
-Rockstar Games\Grand Theft Auto V\x64\audio\sfx\RESIDENT.rpf
+
+Bekijk releases voor bestand
+
+Plaats in: Rockstar Games\Grand Theft Auto V\x64\audio\sfx\RESIDENT.rpf
